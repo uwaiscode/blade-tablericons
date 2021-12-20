@@ -1,6 +1,9 @@
+# Blade Tableicons
+
+
 A package to easily make use of [Tablericons](https://tablericons.com/) in your Laravel Blade views.
 
-For a full list of available icons see [the SVG directory](resources/svg) or preview them at [heroicons.com]((https://tablericons.com/).
+For a full list of available icons see [the SVG directory](resources/svg) or preview them at [tablericons.com](https://tablericons.com/).
 
 ## Requirements
 
